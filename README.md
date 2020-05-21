@@ -47,7 +47,7 @@ Make sure you have [Tasker](https://play.google.com/store/apps/details?id=net.di
 
 You now have an event, which will fire when you click the watch button. In the task, we will set the number of presses to 2.
 
-You can now import the task in tasker from my share link [here](https://taskernet.com/shares/?user=AS35m8lYCHsfXeEtUwtQcBIhgVf6FhsiyWUMypau7fFdz%2F4IVv6U%2BoR45HzTP9FpjdgNdQ%3D%3D&id=Task%3AL%C3%A4s+Dexcom)
+You can now import the task in tasker from this repo [here](task.xml) or use my share link [here](https://taskernet.com/shares/?user=AS35m8lYCHsfXeEtUwtQcBIhgVf6FhsiyWUMypau7fFdz%2F4IVv6U%2BoR45HzTP9FpjdgNdQ%3D%3D&id=Task%3AL%C3%A4s+Dexcom)
 
 Done!
 
