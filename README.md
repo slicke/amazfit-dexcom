@@ -3,7 +3,7 @@
 ## What's this?
 I got an Amazfit GTS and thought that it would be nice to connect it to my Dexcom. Keeping in mind the watch doesn't support Dexcom and the Amazfit integration in xDrip+ is so-so (and recent G6 transimitters are not working well), my expectations were not great. However, I managed to cook something up. I'm sharing this for others, and I will try to update it when I get more work done. It's not intended as a real project, just a reference. Feel free to improve on it!
 
-Also note, some messages are in Swedish - just change them to your own)
+Also note, some messages are in Swedish in the pre-made file as that's how I want mine - just change them to your own :)
 
 ## What does it do?
 Basically it shows your BG value as a pop-up notification when you press the watch button twice in a row.
